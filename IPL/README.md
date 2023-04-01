@@ -24,3 +24,5 @@ There are several ways in which this project can be improved in the future, such
 
 # Conclusion
 In conclusion, this project demonstrates the use of machine learning algorithms to predict the IPL player price based on their previous performance stats and team stats. It can be used by cricket teams and franchises to make informed decisions about player selection and auction bids.
+
+# This project is not mine, I fine tuned it's model for better accuracy. If you have any doubts or query shoot me dm on ig @hello.lakshya
