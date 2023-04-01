@@ -1,3 +1,12 @@
+# Getting Started
+To run this project on your local machine, you need to follow these steps:
+
+Clone the repository to your local machine using git clone https://github.com/yourusername/ipl-price-prediction.git.
+
+Install the necessary dependencies by running pip install -r requirements.txt.
+
+Run the main.py file to execute the program.
+
 # Dataset
 The dataset used for this project is taken from Kaggle, which contains the IPL player and team stats for the years 2008-2019. You can find the dataset in the data folder of this repository.
 
